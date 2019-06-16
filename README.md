@@ -1,4 +1,4 @@
 # storebot
 Chatbot for online store
 
-**(TBD)**
+*(TBD)*
